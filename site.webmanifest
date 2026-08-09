@@ -1,0 +1,22 @@
+{
+  "name": "Framlin — Social media on Autopilot.",
+  "short_name": "Framlin",
+  "description": "Framlin keeps your social media moving while you keep building.",
+  "start_url": "https://framlin.xyz/",
+  "scope": "https://framlin.xyz/",
+  "display": "standalone",
+  "background_color": "#fcf3e6",
+  "theme_color": "#f2692e",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
